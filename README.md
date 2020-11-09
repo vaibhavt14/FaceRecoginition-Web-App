@@ -12,6 +12,9 @@
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib,scipy,opencv
 
+## Live Working project
+[Face Recognition Web App](http://169.63.212.53:8085/)
+
 ## Dataset
 Get the data from : https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 Data files :
@@ -50,6 +53,12 @@ AUC Score - 0.91
 ## Model performance
 
 *	**Linear SVM** : accuracy = 0.8186
+
+
+## Productionization 
+In this step, I built a flask API endpoint that was hosted on a local webserver 
+
+
 
 
 

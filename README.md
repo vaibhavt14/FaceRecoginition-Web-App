@@ -5,7 +5,6 @@
 * Developed web server gateway interphase in flask by rendering HTML CSS and bootstrap in the frontend and in the backend written in Python
 * Optimized Linear SVM algorithm using GridsearchCV to reach the best model
 * Integrating the machine learning model to Flask App.
-* Built a client facing API using flask
 
 
 ## Code and Resources Used 

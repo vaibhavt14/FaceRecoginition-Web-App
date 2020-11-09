@@ -11,7 +11,6 @@
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, numpy, sklearn, matplotlib,scipy,opencv
-**Ide:** jupyter notebook
 
 ## Dataset
 Get the data from : https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/

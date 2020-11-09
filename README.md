@@ -35,7 +35,7 @@ After understanding business requirements, I needed to clean it up so that it wa
 
 ## Machine model application flow
 
-Upload Image -> Crop image -> Data prerocessing -> Feature exctraction -> ML model -> Output
+Upload Image -> Crop image -> Data prerocessing -> Feature extraction -> ML model -> Output
 
 ![alt text](https://github.com/vaibhavt14/FaceRecoginition-Web-App/blob/main/images/002.PNG "Objective of business")
 ![alt text](https://github.com/vaibhavt14/FaceRecoginition-Web-App/blob/main/test.jpg "Gender prediction")
